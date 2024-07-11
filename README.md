@@ -1,4 +1,4 @@
-# Proyecto Survey Neuroligca
+# Proyecto Survey Neurologica
 
 #####  Proyecto de encuesta para Neurologica
 
